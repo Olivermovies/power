@@ -51,8 +51,8 @@
     tLoading: 'Loading image #%curr%...',
     mainClass: 'mfp-img-mobile',
     gallery: {
-      enabled: true,
-      navigateByImgClick: true,
+      enabled: false,
+      navigateByImgClick: true ,
       preload: [0, 1]
     },
     image: {
